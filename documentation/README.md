@@ -36,3 +36,11 @@ All practical implementations are available in the [code directory](../code/).
 ## Repository
 
 https://github.com/Algo-jtx/BIT2118-Scientific-Computing
+
+## Additional Real-World Case Study
+
+It also includes an extended application of Euler's method to the cooling of freshly boiled drinking water.
+
+[Read the Hot Water Cooling Case Study](REAL_WORLD_EXTENSION.md)
+
+
