@@ -17,7 +17,7 @@ The project explores numerical methods used in scientific and engineering applic
 
 - code/: Python programs for Tasks 2–20
 - results/: Generated graphs
-- documentation/: Practical report (PDF)
+- documentation/: Practical report .md file
 - requirements.txt: Required Python libraries
 
 ## Setup Instructions
