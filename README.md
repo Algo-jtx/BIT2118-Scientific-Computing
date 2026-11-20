@@ -49,6 +49,6 @@ The documentation/ directory contains the practical report describing the input 
 
 ## Author
 
-Student Name: [Enter your name]
+Juanita Mumbi BSCCS202547536
 
 Course: BIT 2118 – Scientific Computing
